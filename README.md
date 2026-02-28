@@ -4,3 +4,5 @@ Required on both client and server side in order to work. Will crash unless impa
 
 To use, take the skrubslayer.mp_structure folder in the mods folder and place it in your northstar mods folder (mod managers may do this automatically). To access the map, enter the private match menu and type this:
 map mp_structure
+
+github upload based on this template: https://github.com/GreenTF/NSModTemplate
