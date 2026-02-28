@@ -1,0 +1,946 @@
+ENTITIES01
+{
+"classname" "info_spawnpoint_dropship_start"
+"origin" "-2144 0 1424"
+"targetname" "spawn_mil"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-3456 0 1040"
+"targetname" "spawn_mil"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "3360 0 1040"
+"targetname" "spawn_imc"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_dropship_start"
+"origin" "2144 0 1424"
+"targetname" "spawn_imc"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-48 0 1312"
+"targetname" "spawn_imc1"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-3456 -1056 1040"
+"targetname" "spawn_mil1"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-3456 896 1040"
+"targetname" "spawn_mil2"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-3456 -1744 1040"
+"targetname" "spawn_mil3"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-3456 1760 1040"
+"targetname" "spawn_mil4"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-2736 0 1040"
+"targetname" "spawn_mil5"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-2352 -1392 1040"
+"targetname" "spawn_mil6"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-2336 1280 1040"
+"targetname" "spawn_mil7"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-1248 0 1040"
+"targetname" "spawn_mil8"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-2384 0 1040"
+"targetname" "spawn_mil9"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-2384 -688 1040"
+"targetname" "spawn_mil10"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-2384 736 1040"
+"targetname" "spawn_mil11"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-608 0 1040"
+"targetname" "spawn_mil12"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-608 -992 1040"
+"targetname" "spawn_mil13"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-608 1024 1040"
+"targetname" "spawn_mil14"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-2816 -1744 1040"
+"targetname" "spawn_mil15"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-2816 1760 1040"
+"targetname" "spawn_mil16"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-1872 -1744 1040"
+"targetname" "spawn_mil17"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-1872 1760 1040"
+"targetname" "spawn_mil18"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-912 -1744 1040"
+"targetname" "spawn_mil19"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-912 1760 1040"
+"targetname" "spawn_mil20"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "3360 960 1040"
+"targetname" "spawn_imc2"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "3360 -832 1040"
+"targetname" "spawn_imc3"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "3360 -1776 1040"
+"targetname" "spawn_imc4"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "3360 1824 1040"
+"targetname" "spawn_imc5"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "2832 0 1040"
+"targetname" "spawn_imc6"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "1248 0 1040"
+"targetname" "spawn_imc7"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "2304 0 1040"
+"targetname" "spawn_imc8"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "2304 960 1040"
+"targetname" "spawn_imc9"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "2304 -832 1040"
+"targetname" "spawn_imc10"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "2304 -1776 1040"
+"targetname" "spawn_imc11"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "2304 1824 1040"
+"targetname" "spawn_imc12"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "608 0 1040"
+"targetname" "spawn_imc13"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "608 960 1040"
+"targetname" "spawn_imc14"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "608 -832 1040"
+"targetname" "spawn_imc15"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "832 -1776 1040"
+"targetname" "spawn_imc16"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "880 1824 1040"
+"targetname" "spawn_imc17"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "32 1824 1040"
+"targetname" "spawn_imc18"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-64 -1744 1040"
+"targetname" "spawn_mil21"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-48 -656 1312"
+"targetname" "spawn_imc19"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "32 640 1312"
+"targetname" "spawn_mil22"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "-64 -1328 16"
+"targetname" "spawn_mil23"
+"teamnum" "3"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+}
+{
+"classname" "info_spawnpoint_titan_start"
+"origin" "32 1312 16"
+"targetname" "spawn_imc20"
+"teamnum" "2"
+"gamemode_aitdm" "1"
+"gamemode_ffa" "1"
+"angles" "0 180 0"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-800 0 416"
+"teamnum" "3"
+"targetname" "spawn_0"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1584 0 416"
+"teamnum" "3"
+"targetname" "spawn_1"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-800 0 1040"
+"teamnum" "3"
+"targetname" "spawn_2"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-800 0 272"
+"teamnum" "3"
+"targetname" "spawn_3"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-800 0 144"
+"teamnum" "3"
+"targetname" "spawn_4"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-800 0 32"
+"teamnum" "3"
+"targetname" "spawn_5"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1264 -752 416"
+"teamnum" "3"
+"targetname" "spawn_6"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1264 768 416"
+"teamnum" "3"
+"targetname" "spawn_7"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1584 0 16"
+"teamnum" "3"
+"targetname" "spawn_8"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-2352 0 16"
+"teamnum" "3"
+"targetname" "spawn_9"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-2816 -928 16"
+"teamnum" "3"
+"targetname" "spawn_10"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-2816 896 16"
+"teamnum" "3"
+"targetname" "spawn_11"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 -384 32"
+"teamnum" "3"
+"targetname" "spawn_12"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 320 32"
+"teamnum" "3"
+"targetname" "spawn_13"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 -384 176"
+"teamnum" "3"
+"targetname" "spawn_14"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 320 176"
+"teamnum" "3"
+"targetname" "spawn_15"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 -384 320"
+"teamnum" "3"
+"targetname" "spawn_16"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 320 320"
+"teamnum" "3"
+"targetname" "spawn_17"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 -384 464"
+"teamnum" "3"
+"targetname" "spawn_18"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 320 464"
+"teamnum" "3"
+"targetname" "spawn_19"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 -384 608"
+"teamnum" "3"
+"targetname" "spawn_20"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 320 608"
+"teamnum" "3"
+"targetname" "spawn_21"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3776 0 752"
+"teamnum" "3"
+"targetname" "spawn_23"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-2816 0 416"
+"teamnum" "3"
+"targetname" "spawn_24"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1792 -2304 16"
+"teamnum" "3"
+"targetname" "spawn_25"
+"angle" "90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1792 2320 16"
+"teamnum" "3"
+"targetname" "spawn_26"
+"angle" "-90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1264 -752 1040"
+"teamnum" "3"
+"targetname" "spawn_27"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1264 768 1040"
+"teamnum" "3"
+"targetname" "spawn_28"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-2224 -752 1040"
+"teamnum" "3"
+"targetname" "spawn_29"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-2224 768 1040"
+"teamnum" "3"
+"targetname" "spawn_30"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1920 0 1392"
+"teamnum" "3"
+"targetname" "spawn_31"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-2832 0 1552"
+"teamnum" "3"
+"targetname" "spawn_32"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3968 0 1216"
+"teamnum" "3"
+"targetname" "spawn_33"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3968 -1280 1856"
+"teamnum" "3"
+"targetname" "spawn_34"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-3968 1280 1856"
+"teamnum" "3"
+"targetname" "spawn_35"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1920 -1280 1392"
+"teamnum" "3"
+"targetname" "spawn_36"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1920 1280 1392"
+"teamnum" "3"
+"targetname" "spawn_37"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1792 2272 1040"
+"teamnum" "3"
+"targetname" "spawn_38"
+"angle" "-90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "-1792 -2256 1040"
+"teamnum" "3"
+"targetname" "spawn_39"
+"angle" "90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "800 15.9999 416"
+"teamnum" "3"
+"targetname" "spawn_40"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1584 15.9999 416"
+"teamnum" "3"
+"targetname" "spawn_41"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "800 15.9999 1040"
+"teamnum" "3"
+"targetname" "spawn_52"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "800 15.9999 272"
+"teamnum" "3"
+"targetname" "spawn_62"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "800 15.9999 144"
+"teamnum" "3"
+"targetname" "spawn_73"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "800 15.9999 32"
+"teamnum" "3"
+"targetname" "spawn_74"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1264 768 416"
+"teamnum" "3"
+"targetname" "spawn_75"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1264 -752 416"
+"teamnum" "3"
+"targetname" "spawn_76"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1584 15.9999 16"
+"teamnum" "3"
+"targetname" "spawn_77"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "2352 16 16"
+"teamnum" "3"
+"targetname" "spawn_78"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "2816 944 16"
+"teamnum" "3"
+"targetname" "spawn_42"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "2816 -880 16"
+"teamnum" "3"
+"targetname" "spawn_43"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 400 32"
+"teamnum" "3"
+"targetname" "spawn_44"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 -304 32"
+"teamnum" "3"
+"targetname" "spawn_45"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 400 176"
+"teamnum" "3"
+"targetname" "spawn_46"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 -304 176"
+"teamnum" "3"
+"targetname" "spawn_47"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 400 320"
+"teamnum" "3"
+"targetname" "spawn_48"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 -304 320"
+"teamnum" "3"
+"targetname" "spawn_49"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 400 464"
+"teamnum" "3"
+"targetname" "spawn_50"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 -304 464"
+"teamnum" "3"
+"targetname" "spawn_51"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 400 608"
+"teamnum" "3"
+"targetname" "spawn_53"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 -304 608"
+"teamnum" "3"
+"targetname" "spawn_54"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3776 16.0001 752"
+"teamnum" "3"
+"targetname" "spawn_55"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "2816 16 416"
+"teamnum" "3"
+"targetname" "spawn_56"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1792 2320 16"
+"teamnum" "3"
+"targetname" "spawn_57"
+"angle" "-90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1792 -2304 16"
+"teamnum" "3"
+"targetname" "spawn_58"
+"angle" "90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1264 768 1040"
+"teamnum" "3"
+"targetname" "spawn_59"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1264 -752 1040"
+"teamnum" "3"
+"targetname" "spawn_60"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "2224 768 1040"
+"teamnum" "3"
+"targetname" "spawn_61"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "2224 -752 1040"
+"teamnum" "3"
+"targetname" "spawn_63"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1920 16 1392"
+"teamnum" "3"
+"targetname" "spawn_64"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "2832 16 1552"
+"teamnum" "3"
+"targetname" "spawn_65"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3968 16.0001 1216"
+"teamnum" "3"
+"targetname" "spawn_66"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3968 1296 1856"
+"teamnum" "3"
+"targetname" "spawn_67"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "3968 -1264 1856"
+"teamnum" "3"
+"targetname" "spawn_68"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1920 1296 1392"
+"teamnum" "3"
+"targetname" "spawn_69"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1920 -1264 1392"
+"teamnum" "3"
+"targetname" "spawn_70"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1792 -2256 1040"
+"teamnum" "3"
+"targetname" "spawn_71"
+"angle" "90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "1792 2272 1040"
+"teamnum" "3"
+"targetname" "spawn_72"
+"angle" "-90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "160 15.9999 1312"
+"teamnum" "3"
+"targetname" "spawn_79"
+"angle" "-180"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "0 -1952 1040"
+"teamnum" "3"
+"targetname" "spawn_80"
+"angle" "90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "0 1984 1040"
+"teamnum" "3"
+"targetname" "spawn_81"
+"angle" "-90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "0 -1952 16"
+"teamnum" "3"
+"targetname" "spawn_82"
+"angle" "90"
+}
+{
+"classname" "info_spawnpoint_human"
+"origin" "0 1984 16"
+"teamnum" "3"
+"targetname" "spawn_83"
+"angle" "-90"
+}
+ 
